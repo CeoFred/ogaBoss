@@ -1,0 +1,16 @@
+.btn {
+    background: grey;
+border-radius: 8px;
+padding: 20px;
+border: 0;
+padding: 20px ;
+text-align: center;
+}
+
+.btn-primary{
+    background: #1484FF;
+}
+
+.btn-block{
+    width: 100%;
+}
